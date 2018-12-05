@@ -1,0 +1,13 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    retort (0.0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  retort
+
+BUNDLED WITH
+   1.16.6
